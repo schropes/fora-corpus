@@ -2,7 +2,7 @@
 
 This repository contains information about the Fora corpus, including information about requesting access, a description of the data, starter code, and models.
 
-The corpus is described in the ACL 2024 paper "Fora: A corpus and framework for the study of facilitated dialogue"
+The corpus is described in the ACL 2024 paper "Fora: A corpus and framework for the study of facilitated dialogue" by Hope Schroeder, Deb Roy, and Jad Kabbara.
 
 <br>
 
