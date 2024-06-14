@@ -22,7 +22,7 @@ More information on the process and definitions will be available here soon.
 
 ## Fora Corpus Access
 
-Access will be managed through an agreement with the [MIT Center for Constructive Communication](https://www.ccc.mit.edu/). When the corpus goes live, access form will be managed through [this](https://docs.google.com/forms/d/e/1FAIpQLSf3o8RqPcE_cxcvQ5Zfm5MC4KrlSa3JHxtYrUFZb5FjkLMEBg/viewform?usp=sf_link) form. 
+Access will be managed through an agreement with the [MIT Center for Constructive Communication](https://www.ccc.mit.edu/). When the corpus goes live, access will be managed through [this](https://docs.google.com/forms/d/e/1FAIpQLSf3o8RqPcE_cxcvQ5Zfm5MC4KrlSa3JHxtYrUFZb5FjkLMEBg/viewform?usp=sf_link) form. 
 
 <br>
 
