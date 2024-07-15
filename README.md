@@ -85,6 +85,7 @@ A codebook and examples for each type of sharing and facilitator sharing strateg
 ## Fora Corpus Access
 
 Access will be managed through an agreement with the [MIT Center for Constructive Communication](https://www.ccc.mit.edu/). When the corpus goes live, access will be managed through [this](https://docs.google.com/forms/d/e/1FAIpQLSf3o8RqPcE_cxcvQ5Zfm5MC4KrlSa3JHxtYrUFZb5FjkLMEBg/viewform?usp=sf_link) form, and we will aim to handle access requests within a week. 
+Access is subject to the terms outlined in this [license](https://github.com/schropes/fora-corpus/blob/main/Fora%20Corpus-license.txt), which is based on the Responsible AI License ((RAIL)[https://www.licenses.ai/rail-license-generator]).
 
 <br>
 
