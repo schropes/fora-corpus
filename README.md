@@ -39,7 +39,9 @@ Examples:
 
 List of facilitator dialogue acts and
 definitions
+
 __Validation Strategies__
+
 1. __Express appreciation:__
 * "Thanks for sharing that."
 * "Alright, great, now do I have everyone? Appreciated. Sure. Let’s move on."
