@@ -46,39 +46,37 @@ Facilitator turns were annotated for facilitation strategies defined here.
 __Validation Strategies__
 
 1. __Express appreciation:__
-* "Thanks for sharing that."
-* "Alright, great, now do I have everyone? Appreciated. Sure. Let’s move on."
+* `Thanks for sharing that.`
+* `Alright, great, now do I have everyone? Appreciated. Sure. Let’s move on.`
 2. __Express agreement or affirmation:__
-* "Definitely. I hear you."
-* "I agree. I keep hearing that in these conversations."
+* `Definitely. I hear you.`
+* `I agree. I keep hearing that in these conversations.`
 
 
 __Invitations to Participate__
 
 1. __Open invitation:__ to participants to partic-
 ipate
-* "Alright with that being said, does
-anyone want to kick us off?"
-* "Ok great. Now anyone who wants
-to go next can unmute."
+* `Alright with that being said, does anyone want to kick us off?`
+* `Ok great. Now anyone who wants to go next can unmute.`
 2. __Specific invitation__ to participate, ad-
 dressed to a particular speaker
-* Kelly? Did you want to go next?"
-* "Great. That’s all I wanted to put on the table. Oh, Joe? I see you’re raising your hand. Are you ready to go?"
+* `Kelly? Did you want to go next?`
+* `Great. That’s all I wanted to put on the table. Oh, Joe? I see you’re raising your hand. Are you ready to go?`
 
 __Facilitation Strategies__
 
 1. __Model examples:__ facilitator models an example answer to the question or prompt
-* "So first we are going to give introductions and then share a value that’s important to us. I’ll kick us off. I’m Kelly and a value that’s important to me is courage."
-* "Sharing stories is what we’re doing next. Some people are confused in this stage so I’ll give you an example. My grandmother lived next door to us when I was growing up. One time, the sheriff came by, and I was playing outside. It scared me to see this guy, an unknown man, come to our house when we lived that far out in the country. And my grandmother’s attitude towards him didn’t help. Since then I’ve been scared of the police. Ok does anyone want to share your first encounter with police next?"
+* `So first we are going to give introductions and then share a value that’s important to us. I’ll kick us off. I’m Kelly and a value that’s important to me is courage.`
+* `Sharing stories is what we’re doing next. Some people are confused in this stage so I’ll give you an example. My grandmother lived next door to us when I was growing up. One time, the sheriff came by, and I was playing outside. It scared me to see this guy, an unknown man, come to our house when we lived that far out in the country. And my grandmother’s attitude towards him didn’t help. Since then I’ve been scared of the police. Ok does anyone want to share your first encounter with police next?`
 
 2. __Follow-up question:__ facilitator addresses a follow-up question to a speaker already speaking
-* "Wow, Kelly, that’s such a touching story. Did you ever find out who sent the package?"
+* `Wow, Kelly, that’s such a touching story. Did you ever find out who sent the package?`
 
 3. __Make connections:__ facilitator includes a statement making a connection to or between different participants in the conversation, or across topics in the conversation
-* “That’s similar to what Jamie shared earlier, right?"
-* “I have a similar experience that resonates."
-* “That connects to what we were discussing earlier."
+* `That’s similar to what Jamie shared earlier, right?`
+* `I have a similar experience that resonates.`
+* `That connects to what we were discussing earlier.`
 
 A codebook and examples for each type of sharing and facilitator sharing strategy is included in this repository.
 
