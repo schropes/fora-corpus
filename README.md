@@ -18,11 +18,24 @@ Beyond publicly available collection-level information in this [sheet](https://g
 
 <br>
 
-## Fora annotations
+## Annotations: personal sharing and facilitation strategies
 
 Over 25% of the conversations have been manually annotated for two types of personal sharing, and seven defined facilitation strategies.
 
+### Personal sharing
+1. Personal story
+A personal story describes a specific series of events that happened in the speaker's life. Usually, this story happened in the past, but it may be happening in the present. Stories can be as short as one sentence.
+Examples:
+* `I rode my bike all across town until I found that darn hospital!`
+* `10 years ago, I went to the coroner's office after my brother passed away. They would not help me find out what happened.`
+2. Personal experience
+A mention of personal experience includes the mention of of professional background, or general statements about the speaker's life that are *not* a sequence of specific events, unlike stories described above.
+Examples:
+* `I get mistaken for a lot of other Asian people in my sorority or in other sororities.` (This describes a recurring experience, so it's not a story but it is a personal experience.)
+* `My name is Justyce, I am a student at UW Madison, and I'm a senior.` (This shares background information about the speaker that relates to their personal identity, but is not a story.)
 
+
+### Facilitation strategies
 
 A codebook and examples for each type of sharing and facilitator sharing strategy is included in this repository.
 
