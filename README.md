@@ -23,12 +23,12 @@ Beyond publicly available collection-level information in this [sheet](https://g
 Over 25% of the conversations have been manually annotated for two types of personal sharing, and seven defined facilitation strategies.
 
 ### Personal sharing
-1. Personal story
+1. __Personal story:__
 A personal story describes a specific series of events that happened in the speaker's life. Usually, this story happened in the past, but it may be happening in the present. Stories can be as short as one sentence.
 Examples:
 * `I rode my bike all across town until I found that darn hospital!`
 * `10 years ago, I went to the coroner's office after my brother passed away. They would not help me find out what happened.`
-2. Personal experience
+2. __Personal experience:__
 A mention of personal experience includes the mention of of professional background, or general statements about the speaker's life that are *not* a sequence of specific events, unlike stories described above.
 Examples:
 * `I get mistaken for a lot of other Asian people in my sorority or in other sororities.` (This describes a recurring experience, so it's not a story but it is a personal experience.)
@@ -36,6 +36,16 @@ Examples:
 
 
 ### Facilitation strategies
+
+List of facilitator dialogue acts and
+definitions
+__Validation Strategies__
+1. __Express appreciation:__
+* "Thanks for sharing that."
+* "Alright, great, now do I have everyone? Appreciated. Sure. Let’s move on."
+2. __Express agreement or affirmation:__
+* "Definitely. I hear you."
+* "I agree. I keep hearing that in these conversations."
 
 A codebook and examples for each type of sharing and facilitator sharing strategy is included in this repository.
 
