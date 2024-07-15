@@ -1,0 +1,241 @@
+
+Fora Corpus RESEARCH-ONLY License
+
+Licensed Artifact(s):
+
+-   Data and resources from Fora corpus
+
+Section I: PREAMBLE
+
+This Research-Only License, a modified RAIL license, is generally applicable to the
+Artifact(s) and Data identified above.
+
+For valuable consideration, You and Licensor agree as follows:
+
+1. Definitions
+
+(a) “Application” refers to a sequence of instructions or statements
+    written in machine code language, including object code (that is the
+    product of a compiler), binary code (data using a two-symbol system)
+    or an intermediate language (such as register transfer language).
+
+(b) “Artifact” refers to the Data, in accordance with
+    what is specified above as the “Licensed Artifact”.
+
+(c) ”Contribution” means any work, including any modifications or
+    additions to an Artifact, that is intentionally submitted to
+    Licensor for inclusion or incorporation in the Artifact directly or
+    indirectly by the rights owner. For the purposes of this definition,
+    “submitted” means any form of electronic, verbal, or written
+    communication sent to the Licensor or its representatives, including
+    but not limited to communication on electronic mailing lists, source
+    code control systems, and issue tracking systems that are managed
+    by, or on behalf of, the Licensor for the purpose of discussing,
+    sharing and improving the Artifact, but excluding communication that
+    is conspicuously marked or otherwise designated in writing by the
+    contributor as “Not a Contribution.”
+
+(d) “Contributor” means Licensor or any other individual or legal entity
+    that creates or owns a Contribution that is added to or incorporated
+    into an Artifact or its Derivative.
+
+(e) “Data” means a collection of information and/or content extracted
+    from the dataset used with a given Model, including to train,
+    pretrain, or otherwise evaluate the Model. 
+
+(f) “Derivative” means a work derived from or based upon an Artifact,
+    and includes all modified versions of such Artifact.
+
+(g) “Distribution” means any transmission, reproduction, publication or
+    other sharing of an Artifact or Derivative to a third party,
+    including providing a hosted service incorporating the Artifact,
+    which is made available by electronic or other remote means -
+    e.g. API-based or web access.
+
+(h) “Harm” includes but is not limited to physical, mental,
+    psychological, financial and reputational damage, pain, or loss.
+
+(i) “License” means the terms and conditions for use, reproduction, and
+    Distribution as defined in this document.
+
+(j) “Licensor” means the rights owner (by virtue of creation or
+    documented transfer of ownership) or entity authorized by the rights
+    owner (e.g., exclusive licensee) that is granting the rights in this
+    License.
+
+(m) “Permitted Purpose” means for academic or research purposes only.
+
+(n) “Source Code” means any collection of text written using
+    human-readable programming language, including the code and scripts
+    used to define, run, load, benchmark or evaluate a Model or any
+    component thereof, and/or used to prepare data for training or
+    evaluation, if any. Source Code includes any accompanying
+    documentation, tutorials, examples, etc, if any. For clarity, the
+    term “Source Code” as used in this License includes any and all
+    Derivatives of such Source Code.
+
+(o) “Third Parties” means individuals or legal entities that are not
+    under common control with Licensor or You.
+
+(p) “Use” includes accessing, using, copying, modifying, and/or
+    distributing an Artifact; in connection with a Model as Artifact,
+    Use also includes creating content, fine-tuning, updating, running,
+    training, evaluating and/or re-parametrizing such Model.
+
+(q) “You” (or “Your”) means an individual or legal entity receiving and
+    exercising permissions granted by this License and/or making use of
+    the Artifact for permitted purposes and in any permitted field of
+    use, including usage of the Artifact in an end-use application -
+    e.g. chatbot, translator, image generator, etc.
+
+
+2. Use-based restrictions. The restrictions set forth in Attachment A
+are mandatory Use-based restrictions. Therefore You may not Use the
+Artifact in violation of such restrictions. You may Use the Artifact
+only subject to this License. You shall require all of Your collaborators who
+use the Artifact or its Derivative to comply with the terms of this
+paragraph and only for the Permitted Purpose.
+
+
+3. Distribution and Redistribution. You may not share or host derivative versions (in part or full) of the artifact.
+
+OTHER PROVISIONS
+
+4. Updates and Runtime Restrictions. To the maximum extent permitted by
+law, Licensor reserves the right to restrict (remotely or otherwise)
+usage of the Artifact in violation of this License or update the
+Artifact through electronic means.
+
+5. Trademarks and related. Nothing in this License permits You to make
+use of Licensors’ trademarks, trade names, logos or to otherwise suggest
+endorsement or misrepresent the relationship between the parties; and
+any rights not expressly granted herein are reserved by the Licensors.
+
+6. Disclaimer of Warranty. Unless required by applicable law or agreed
+to in writing, Licensor provides the Artifact (and each Contributor
+provides its Contributions) on an “AS IS” BASIS, WITHOUT WARRANTIES OR
+CONDITIONS OF ANY KIND, either express or implied, including, without
+limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT,
+MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely
+responsible for determining the appropriateness of using the Artifact,
+and assume any risks associated with Your exercise of permissions under
+this License.
+
+7. Limitation of Liability. In no event and under no legal theory,
+whether in tort (including negligence), contract, or otherwise, unless
+required by applicable law (such as deliberate and grossly negligent
+acts) or agreed to in writing, shall any Contributor be liable to You
+for damages, including any direct, indirect, special, incidental, or
+consequential damages of any character arising as a result of this
+License or out of the use or inability to use the Artifact (including
+but not limited to damages for loss of goodwill, work stoppage, computer
+failure or malfunction, or any and all other commercial damages or
+losses), even if such Contributor has been advised of the possibility of
+such damages.
+
+8. If any provision of this License is held to be invalid, illegal or
+unenforceable, the remaining provisions shall be unaffected thereby and
+remain valid as if such provision had not been set forth herein.
+
+9. Term and Termination. The term of this License will commence upon
+the earlier of (a) Your acceptance of this License or (b) accessing the
+Data; and will continue in full force and effect until terminated in
+accordance with the terms and conditions herein. Licensor may terminate
+this License if You are in breach of any term or condition of this
+Agreement. Upon termination of this Agreement, You shall delete and
+cease use of the Data. Section 10 shall survive the termination of
+this License.
+
+END OF TERMS AND CONDITIONS
+
+Attachment A
+
+USE RESTRICTIONS
+
+You agree not to use the Artifact or its Derivatives (including any models trained on this data) in any of the
+following ways:
+
+1.  Discrimination
+
+    (a) To discriminate or exploit individuals or groups based on
+        legally protected characteristics and/or vulnerabilities.
+
+    (b) For purposes of administration of justice, law enforcement,
+        immigration, or asylum processes, such as predicting that a
+        natural person will commit a crime or the likelihood thereof.
+
+    (c) To engage in, promote, incite, or facilitate discrimination or
+        other unlawful or harmful conduct in the provision of
+        employment, employment benefits, credit, housing, or other
+        essential goods and services.
+
+2.  Military
+
+    (a) For weaponry or warfare.
+
+3.  Legal
+
+    (a) To engage or enable fully automated decision-making that
+        adversely impacts a natural person's legal rights without
+        expressly and intelligibly disclosing the impact to such natural
+        person and providing an appeal process.
+
+    (b) To engage or enable fully automated decision-making that
+        creates, modifies or terminates a binding, enforceable
+        obligation between entities; whether these include natural
+        persons or not.
+
+    (c) In any way that violates any applicable national, federal,
+        state, local or international law or regulation.
+
+4.  Disinformation
+
+    (a) To create, present or disseminate verifiably false or misleading
+        information for economic gain or to intentionally deceive the
+        public, including creating false impersonations of natural
+        persons.
+
+    (b) To synthesize or modify a natural person's appearance, voice, or
+        other individual characteristics, unless prior informed consent
+        of said natural person is obtained.
+
+    (c) To autonomously interact with a natural person, in text or audio
+        format, unless disclosure and consent is given prior to
+        interaction that the system engaging in the interaction is not a
+        natural person.
+
+    (d) To defame or harm a natural person's reputation, such as by
+        generating, creating, promoting, or spreading defamatory content
+        (statements, images, or other content).
+
+5.  Privacy
+
+    (a) To utilize personal information to infer additional personal
+        information about a natural person, including but not limited to
+        legally protected characteristics, vulnerabilities or
+        categories.
+    (b) To generate or disseminate personal identifiable information
+        that can be used to harm an individual or to invade the personal
+        privacy of an individual.
+
+    (c) To engage in, promote, incite, or facilitate the harassment,
+        abuse, threatening, or bullying of individuals or groups of
+        individuals.
+
+6.  Health
+
+    (a) To provide medical advice or make clinical decisions without
+        necessary (external) accreditation of the system; unless the use
+        is (i) in an internal research context with independent and
+        accountable oversight and/or (ii) with medical professional
+        oversight that is accompanied by any related compulsory
+        certification and/or safety/quality standard for the
+        implementation of the technology.
+
+7.  General
+
+    (a) To defame, disparage or otherwise harass others.
+
+    (b) To Intentionally deceive or mislead others, including failing to
+        appropriately disclose to end users any known dangers of your
+        system.
