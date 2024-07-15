@@ -10,6 +10,7 @@ The corpus is described in the ACL 2024 paper "Fora: A corpus and framework for 
 
 This dataset includes 262 transcribed small group conversations over 39,000+ speaker turns.
 Conversations come from 16 unique conversation collections hosted in partnership with community organizations. Conversation collection topics include city manager selection, resourcing challenges in NYC during COVID-19, and challenges to a school district.
+Extended collection descriptions and any public links to additional information are available in this [sheet.](https://github.com/schropes/fora-corpus/blob/main/Fora%20corpus%20-%20collection%20information.csv)
 
 <br>
 
@@ -22,7 +23,7 @@ More information on the process and definitions will be available here soon.
 
 ## Fora Corpus Access
 
-Access will be managed through an agreement with the [MIT Center for Constructive Communication](https://www.ccc.mit.edu/). When the corpus goes live, access will be managed through [this](https://docs.google.com/forms/d/e/1FAIpQLSf3o8RqPcE_cxcvQ5Zfm5MC4KrlSa3JHxtYrUFZb5FjkLMEBg/viewform?usp=sf_link) form. 
+Access will be managed through an agreement with the [MIT Center for Constructive Communication](https://www.ccc.mit.edu/). When the corpus goes live, access will be managed through [this](https://docs.google.com/forms/d/e/1FAIpQLSf3o8RqPcE_cxcvQ5Zfm5MC4KrlSa3JHxtYrUFZb5FjkLMEBg/viewform?usp=sf_link) form, and we will aim to handle access requests within a week. 
 
 <br>
 
