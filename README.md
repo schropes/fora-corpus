@@ -20,7 +20,7 @@ Beyond publicly available collection-level information in this [sheet](https://g
 
 ## Annotations: personal sharing and facilitation strategies
 
-Over 25% of the conversations have been manually annotated for two types of personal sharing, and seven defined facilitation strategies.
+Over 25% of the conversations (70 conversations, 10,625 speaker turns) have been manually annotated for two types of personal sharing, and seven defined facilitation strategies.
 
 All annotations allowed for multi-labeling.
 
