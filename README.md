@@ -2,7 +2,7 @@
 
 This repository contains information about the Fora corpus, including a description of the data, information about requesting access, starter code, and models for processing the data.
 
-The corpus is described in the ACL 2024 paper "Fora: A corpus and framework for the study of facilitated dialogue" by Hope Schroeder, Deb Roy, and Jad Kabbara. Thee ACL anthology paper link is [here]([https://drive.google.com/file/d/1z_APW-aNuYJNJjHfu9u6ObcIYDzXm6VD/view?usp=sharing](https://aclanthology.org/2024.acl-long.754/)).
+The corpus is described in the ACL 2024 paper "Fora: A corpus and framework for the study of facilitated dialogue" by Hope Schroeder, Deb Roy, and Jad Kabbara. The ACL anthology paper link is [here](https://aclanthology.org/2024.acl-long.754/).
 
 <br>
 
