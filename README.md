@@ -82,6 +82,12 @@ A codebook and examples for each type of sharing and facilitator sharing strateg
 
 <br>
 
+## Prompting details
+
+An example of the prompts used for the 4 tasks contained in the paper is in the appendix of the [paper](https://aclanthology.org/2024.acl-long.754.pdf). Additional details on prompts used + directions for prompt construction for each task are available [here](https://docs.google.com/document/d/1hHZrD2kJSq9QcC1fs19sArHmtJzlTnSecoy5SSgBZYk/edit?tab=t.0).
+
+<br>
+
 ## Fora Corpus Access
 
 Access will be managed through an agreement with the [MIT Center for Constructive Communication](https://www.ccc.mit.edu/). Access requests are managed through [this](https://docs.google.com/forms/d/e/1FAIpQLSf3o8RqPcE_cxcvQ5Zfm5MC4KrlSa3JHxtYrUFZb5FjkLMEBg/viewform?usp=sf_link) form, and we will aim to handle access requests within a week. 
